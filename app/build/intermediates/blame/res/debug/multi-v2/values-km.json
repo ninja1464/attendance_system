@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/itachi/Documents/programming/10.projects/Android-Attendance-App-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+            "map": [
+                {
+                    "source": "/Users/itachi/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/257728004d7cd8b49963aafb5d7e79c2/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

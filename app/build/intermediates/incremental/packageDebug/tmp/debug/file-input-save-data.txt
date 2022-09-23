@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Sep 23 14:58:52 IST 2022
+0.baseType=DIRECTORY
+0.base=/Users/itachi/Documents/programming/10.projects/Android-Attendance-App-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

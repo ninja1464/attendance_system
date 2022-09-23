@@ -1,0 +1,4 @@
+#Fri Sep 23 14:58:52 IST 2022
+base.0=/Users/itachi/Documents/programming/10.projects/Android-Attendance-App-master/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
